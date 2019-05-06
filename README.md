@@ -1,2 +1,2 @@
 # django-nginx-uwsgi
-web框架
+web并发
